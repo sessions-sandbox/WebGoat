@@ -73,3 +73,4 @@ jobs:
                 with:
                     name: veracode-artifact
                     path: target/scanner-target.jar
+                    overwrite: true
