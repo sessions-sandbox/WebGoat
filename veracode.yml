@@ -1,0 +1,4 @@
+veracode_static_scan:
+ policy: 'Veracode Recommended Medium + SCA'
+ use_custom_workflow: veracode-build
+ artifact_file: veracode-artifact
